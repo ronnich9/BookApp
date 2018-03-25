@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "770304987660",
+    "firebase_url": "https://ukrainianpoems-7cb3d.firebaseio.com",
+    "project_id": "ukrainianpoems-7cb3d",
+    "storage_bucket": "ukrainianpoems-7cb3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770304987660:android:0108b18de47f7d70",
+        "android_client_info": {
+          "package_name": "com.feriramara.ukrainianapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770304987660-m7mivked210t533lm55bfked7h8ge7io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWHZINLj3j_b2hfYJtuI8LXNtV-5aa4wg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770304987660:android:11df9f882c140944",
+        "android_client_info": {
+          "package_name": "com.example.alex.book_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770304987660-m7mivked210t533lm55bfked7h8ge7io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWHZINLj3j_b2hfYJtuI8LXNtV-5aa4wg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770304987660:android:22727103e742c547",
+        "android_client_info": {
+          "package_name": "com.feriramara.alex.book_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770304987660-m7mivked210t533lm55bfked7h8ge7io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWHZINLj3j_b2hfYJtuI8LXNtV-5aa4wg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

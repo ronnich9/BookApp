@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/start"
+        android:title="Prefaces and Afterwords" />
+
+    <item android:title="Part I: Commodities and Money">
+        <menu>
+            <item
+                android:id="@+id/chapter1"
+                android:title="Chapter 1: Commodities" />
+            <item
+                android:id="@+id/chapter2"
+                android:title="Chapter 2: Exchange" />
+            <item
+                android:id="@+id/chapter3"
+                android:title="Chapter 3: Money, Or the Circulation of Commodities" />
+        </menu>
+    </item>
+    <item android:title="Part II: The Transformation of Money into Capital">
+        <menu>
+            <item
+                android:id="@+id/chapter4"
+                android:title="Chapter 4: The General Formula for Capital" />
+            <item
+                android:id="@+id/chapter5"
+                android:title="Chapter 5: Contradictions in the General Formula of Capital" />
+            <item
+                android:id="@+id/chapter6"
+                android:title="Chapter 6: The Buying and Selling of Labour-Power" />
+        </menu>
+    </item>
+
+    <item android:title="Part III: Absolute Surplus-Value">
+        <menu>
+            <item
+                android:id="@+id/chapter7"
+                android:title="Chapter 7: The Labour-Process and the Process of Production Suprus-Value" />
+            <item
+                android:id="@+id/chapter8"
+                android:title="Chapter 8: Constant Capital and Variable Capital" />
+            <item
+                android:id="@+id/chapter9"
+                android:title="Chapter 9: The Rate of Surplus-Value" />
+            <item
+                android:id="@+id/chapter10"
+                android:title="Chapter 10: The Working day" />
+            <item
+                android:id="@+id/chapter11"
+                android:title="Chapter 11: The Rate and Mass of Suprus-Value" />
+        </menu>
+    </item>
+    <item android:title="Part IV: Relative Surplus-Value">
+        <menu>
+            <item
+                android:id="@+id/chapter12"
+                android:title="Chapter 12: The Concept of Relative Suprus-Value" />
+            <item
+                android:id="@+id/chapter13"
+                android:title="Chapter 13: Co-operation" />
+            <item
+                android:id="@+id/chapter14"
+                android:title="Chapter 14: Division of Labour and Manufacture" />
+            <item
+                android:id="@+id/chapter15"
+                android:title="Chapter 15: Machinery and Modern Indusrty" />
+
+        </menu>
+    </item>
+    <item android:title="Part V: Absolute and Relative Surplus-Value">
+        <menu>
+            <item
+                android:id="@+id/chapter16"
+                android:title="Chapter 16: Absolute and Relative Suprus-Value" />
+            <item
+                android:id="@+id/chapter17"
+                android:title="Chapter 17: Changes of Magnitude in the Price of Labour-Power and in Suprus-Value" />
+            <item
+                android:id="@+id/chapter18"
+                android:title="Chapter 18: Various Formula for the rate of Suprus-Value" />
+        </menu>
+    </item>
+    <item android:title="Part VI: Wages">
+        <menu>
+            <item
+                android:id="@+id/chapter19"
+                android:title="Chapter 19: The Transformation of the Value of Labour-Power into Wages" />
+            <item
+                android:id="@+id/chapter20"
+                android:title="Chapter 20: Time-Wages" />
+            <item
+                android:id="@+id/chapter21"
+                android:title="Chapter 21: Piece Wages" />
+            <item
+                android:id="@+id/chapter22"
+                android:title="Chapter 22: National Differences of Wages" />
+        </menu>
+    </item>
+    <item android:title="Part VII: The Accumulation of Capital">
+        <menu>
+            <item
+                android:id="@+id/chapter23"
+                android:title="Chapter 23: Simple Reproduction" />
+            <item
+                android:id="@+id/chapter24"
+                android:title="Chapter 24: Conversion of Suprus-Value into Capital" />
+            <item
+                android:id="@+id/chapter25"
+                android:title="Chapter 25: The General Law of Capitalist Accumulation" />
+        </menu>
+    </item>
+    <item android:title="Part VIII: Primitive Accumulation">
+        <menu>
+            <item
+                android:id="@+id/chapter26"
+                android:title="Chapter 26: The Secret of Primitive Accumulation" />
+            <item
+                android:id="@+id/chapter27"
+                android:title="Chapter 27: Expropriation of the Agricultural Population From the Land" />
+            <item
+                android:id="@+id/chapter28"
+                android:title="Chapter 28: Bloody Legislation Againts the Expropriated, from the End of the 15th Century" />
+            <item
+                android:id="@+id/chapter29"
+                android:title="Chapter 29: Genesis of the Capitalist Farmer" />
+            <item
+                android:id="@+id/chapter30"
+                android:title="Chapter 30: Reaction of the Agricultural Revolution on Industry" />
+            <item
+                android:id="@+id/chapter31"
+                android:title="Chapter 31: The Genesis of the Industrial Capitalist" />
+            <item
+                android:id="@+id/chapter32"
+                android:title="Chapter 32: Historical Tendency of Capitalist Accumulation" />
+            <item
+                android:id="@+id/chapter33"
+                android:title="Chapter 33: The Modern Theory of Colonisation" />
+        </menu>
+    </item>
+
+
+
+
+
+</menu>
